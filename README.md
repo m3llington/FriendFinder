@@ -1,4 +1,4 @@
-# FriendFinder
+# FriendFinder(avengers themed!)
 
 This is the friend finding app(similar to dating app). We use node.js and require express, body-parser, and path in order to properly connect routes between the entire application.
 
